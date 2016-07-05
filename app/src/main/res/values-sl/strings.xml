@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="alphabet">
+        <item>A</item>
+        <item>B</item>
+        <item>C</item>
+        <item>Č</item>
+        <item>D</item>
+        <item>E</item>
+        <item>F</item>
+        <item>G</item>
+        <item>H</item>
+        <item>I</item>
+        <item>J</item>
+        <item>K</item>
+        <item>L</item>
+        <item>M</item>
+        <item>N</item>
+        <item>O</item>
+        <item>P</item>
+        <item>R</item>
+        <item>S</item>
+        <item>Š</item>
+        <item>T</item>
+        <item>U</item>
+        <item>V</item>
+        <item>Z</item>
+        <item>Ž</item>
+    </string-array>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="level_1_title">1. Učenje dvojnih simbolov</string>
+    <string name="level_1_description">Za večino ljudi je prepoznavanje simbolov (črk), ki označujejo glásnike, samoumevno, saj so za Racia to osnovni gradniki besed. Za dislektike pa črke ne igrajo enake vloge, saj Emocio skupke črk lažje prepoznava kot sliko, ki jo poveže z besedo, kot da bi iz posameznih črk sestavljal besede.
+Da bi dislektik funkcijo branja lahko preselil od Emocia k Raciu, mora brezhibno obvladati vse osnovne gradnike (simbole). Tej nalogi se posvečamo na prvi in drugi stopnji.
+V priponki simboli je razpredelnica črk in številk. (Za prikaz priponke kliknite na modro polje.)
+Dislektik se mora to tabelo naučiti na pamet, in sicer tako, da lahko vsaki črki brez zatikanja dodeli ustrezno številko in vsaki številki ustrezno črko.
+Za učenje simbolov natisnite tabelo kvadratki. Simbole za velike in male črke in številke natisnite in razrežite po črtah. Kvadratke nato premešate in razporedite po mizi tako, da simboli ne bodo vidni. Dislektik naj kvadratke po vrsti obrača (kot pri igri Spomin) in bere na njih zapisane simbole. Številke naj bere le s črkami, ki jih predstavljajo, in ne kot številke – ko naleti na primer na številko 2, prebere "b", pri številki 25 prebere "ž".
+
+Ta stopnja je končana, ko dislektik prepoznava vse simbole tekoče in brez napak.</string>
+
+    <string name="level_2_title">2. Utrjevanje simbolov</string>
+    <string name="level_2_description">Starši dislektičnih otrok pogosto spregledajo, da ti posameznih simbolov ne prepoznavajo tako dobro kot njihovi nedislektični vrstniki. Tekoče in brezhibno prepoznavanje črk pa je za branje ključnega pomena. Naslednja naloga je namenjena ugotavljanju, ali je prepoznavanje posameznih simbolov pri dislektiku dovolj utrjeno. V priponki sedem minut sta dve strani naključno izbranih črk in številk. Dislektik mora na glas črkovati vse simbole, mi pa pri tem preverjamo pravilnost in merimo čas. Vajo lahko ponavlja večkrat dnevno. Za osebni rekord šteje samo čas tiste vaje, ko pri branju ni bilo več kot tri napake. (Številke pri vaji vedno prebere le kot črke.)
+
+Na tej stopnji naj dislektik branje simbolov utrjuje tako dolgo, dokler ne prebere vseh simbolov brez napak v 7 minutah ali še hitreje. (Pri nekaterih bo ta stopnja trajala več tednov. Ne nadaljujte, dokler ni dosežen zahtevani čas!)</string>
+
+    <string name="level_3_title">3. Seštevanje črk</string>
+    <string name="level_3_description">Namen te naloge je spoznati, da pravilno branje ne poteka s slikovnim prepoznavanjem besed in povezovanjem teh slik z ustreznimi pojmi, ampak s povezovanjem posameznih črk v besede. Izurjenost v tem početju je tekoče branje.
+Ker pozna dislektik na tej stopnji za vsako črko tudi njej ustrezajočo številko, lahko izračunava tudi vrednosti besed.
+To poteka tako, da vsako črko v mislih pretvori v številko, nato pa njihove vrednosti sešteje, da dobi skupno vrednost besede. Pravo vrednost dobi samo, če je pravilno pretvoril in seštel vse črke.
+
+banana = 2 + 1 + 15 + 1 + 15 + 1 = 35
+
+S to vajo dislektik spoznava, kako natančno je treba brati vsako črko v besedi.
+V priponki seštevanje boste našli vaje za sedem dni. Dislektik naj vsak dan preračuna besede z ene strani. Če še ni vešč računanja na pamet, naj si pomaga z zapisovanjem računov ob besedi. (Kontrolni list ob vajah je namenjen osebi, ki dislektiku pomaga pri vajah.)
+
+Ta stopnja je končana, ko dislektik pravilno izračuna vrednosti vseh besed.</string>
+
+    <string name="level_4_title">4. Prepoznavanje pomena besed</string>
+    <string name="level_4_description">Na tej stopnji se dislektik osredotoči na prepoznavanje pomena besed, ki jih je sestavil iz posameznih simbolov. Da bi mu preprečili prepoznavanje slik posameznih besed, kot je to poskušal doslej, uporabimo za to nalogo zapis z dvojnimi simboli – s črkami in številkami. Tako se vsaka beseda pojavlja zapisana na dva načina in predstavlja za Emocia dve različni sliki, to pa že zadostuje, da se jih dislektik ne bo več učil na pamet.
+Za vaje kliknite na prepoznavanje.
+
+Ta stopnja je končana, ko dislektik reši vse vaje.</string>
+
+    <string name="level_5_title">5. Branje besedil z dvojnimi simboli</string>
+    <string name="level_5_description">To je osrednji in najpomembnejši del Erosove metode za odpravo disleksije. Z branjem posebej prirejenih besedil, v katerih so uporabljeni dvojni simboli, se dislektik začne izpopolnjevati v branju na način, ki ga zmore le miselni procesor Racio. Zavedati se je treba, da je za dislektika, ne glede na njegovo starost in napredek, ki ga je na področju branja pred tem morebiti že dosegel, to trenutek, ko se ponovno začenja učiti branja. Njegovo izhodišče je zato enako izhodišču prvošolca, njegov napredek v izpopolnjevanju branja pa bo potekal tako kot pri otrocih brez disleksije. Na tej stopnji je napredek odvisen od vztrajnosti in vaje, to pa pomeni, da mora dislektik vsak dan brati vsaj eno uro. Če kak dan branje iz posebnega razloga izostane, je treba to nadomestiti naslednji dan, zato naj ta dan namesto eno uro bere dve uri, vendar ne v enem.
+Zelo pomembno je tudi, da dislektik v času teh vaj ne bere drugih besedil, kajti vsak stik Emocia z navadnim besedilom pomeni Emocijevo napredovanje v branju. Naloga te stopnje pa je nasprotno – da miselni procesor Racio v branju prehiti Emocia in napreduje do te stopnje, da se Emocio v to funkcijo ne bo več vključeval.
+V priponkah so besedila, ki jih je za delo treba natisniti. Pri vsakem besedilu je dodana tudi različica, zapisana v navadni obliki, namenjena osebi, ki dislektika nadzira pri branju. Če tu zbrana besedila zanj niso primerna, je s klikom na program mogoče sneti poseben program, ki pretvarja besedila v elektronski obliki v zapise z dvojnimi simboli. Tako lahko za vajo prilagodimo tudi besedila, ki bi dislektika pritegnila bolj od besedil v prilogah. Za lažje branje je priporočljiva pisava Arial, saj prihaja pri nekaterih drugih pisavah do prevelike podobnosti med črkami in številkami, to pa branje otežuje.
+Kljub uporabi dvojnih simbolov se dislektik v tem postopku učenja posredno uči tudi navadnega branja navedenih besedil, vendar ne na Emocijev način. Prav zato je še posebej pomembno, da se ne prenaglimo s prehitrim prehodom na navadna besedila. Če dislektik branja ni dovolj utrdil, se lahko zgodi, da bo pri prehitrem prehodu na navadna besedila Emocio ponovno skušal sodelovati v procesu branja, to pa pomeni, da bi se bralcu po nekaj tednih pri branju spet začelo močno zatikati. Zavedati se je treba, da je uporaba dvojnih simbolov pri branju za bralca povsem nemoteč postopek, zato pri prehodu na navadna besedila ne bo imel nobenih težav in bo tudi to njegovo branje v zelo kratkem času znatno bolj tekoče. Prehod na navadna besedila si lahko predstavljamo tako, kot če bi nedislektični bralec naletel na besedilo, v katerem bi bile naključno uporabljene samo take besede, v katerih ni določenih črk. Bralec tega pri branju najbrž sploh ne bi zaznal, saj ta izostanek določenih simbolov ne bi omejil prepoznavanja preostalih simbolov in s tem besed in sporočila besedila. To pa je za dislektika lahko tudi skušnjava, saj bo ob morebitnem srečanju z navadnim besedilom ugotovil, da pri branju nima več težav, kar pa ga lahko navda tudi s prehitrim navdušenjem, saj njegovo branje morda še ni dovolj utrjeno, da se mu v postopek branja ne bi ponovno začel vključevati njegov Emocio.</string>
+    Ta stopnja traja več mesecev in je končana šele, ko je bralec (zdaj ne moremo več govoriti o dislektiku) zmožen prebrati v povprečju vsaj 60 besed na minuto.
+
+    <string name="level_6_title">6. Branje nesmiselnih besed</string>
+    <string name="level_6_description">Pri prepoznavanju neznanih besed ima Emocio vselej težavo, zato je za prehod na branje navadnih besedil – s samo eno vrsto simbolov, črkami – predvidena vmesna stopnja, branje nesmiselnih besed. Teh Emocio namreč ne more povezati z nobeno sliko. V ta namen naj bralec en teden vsak dan prebere besede v priponki nesmiselne besede.
+Ta stopnja je končana v sedmih dneh.</string>
+
+    <string name="level_7_title">7. Izpopolnjevanje branja z navadnimi simboli</string>
+    <string name="level_7_description">Branje je zapleten proces in se ga v resnici učimo več let, preden ga tako izpopolnimo, da iz besedil zajemamo informacije povsem brez težav. Bralec na tej stopnji ne bo več imel težav, značilnih za dislektike, kljub temu pa bo zaradi dominantnosti Emocia v svojem značaju opazil nagnjenost k temu, da bi nekatere besede prepoznaval slikovno. S tem ni nič narobe in to ne bo povzročalo težav, saj je bralec do te stopnje za branje že usposobil primernejši miselni procesor, ki bo prepoznavanje besed s pomočjo slik zdaj dovoljeval le v primeru, ko bo beseda kot slika res pravilno prepoznana. To pa je v bistvu tudi način branja, ki ga ponekod učijo kot hitro branje. V tem postopku bralce z Racijevim načinom branja navajajo na souporabo Emocia, ki je sposoben besedila dojemati hitreje, vendar le omejeno število besed in z manjšo natančnostjo. Iz istega razloga je tudi branje pismenk hitrejše od branja črkovnih besedil, je pa zato postopek učenja veliko zahtevnejši in dolgotrajnejši. Prednost črkovnih besedil je v natančnosti prenosa informacij.
+Tako, zdaj ste pripravljeni na branje 777 strani knjige [psi]! ;-)</string>
+
+    <string name="start_testing">Začni testiranje</string>
+</resources>

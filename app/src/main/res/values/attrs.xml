@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="ClickableItem" format="reference" />
+    <attr name="SeparatedItem" format="reference" />
+    <attr name="SeparatedClickableItem" format="reference" />
+</resources>

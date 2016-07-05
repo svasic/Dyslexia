@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PsiTheme" parent="Theme.AppCompat">
+        <item name="ClickableItem">@style/ClickableItem</item>
+        <item name="SeparatedClickableItem">@style/SeparatedClickableItem</item>
+        <item name="SeparatedItem">@style/SeparatedItem</item>
+    </style>
+    
+</resources>

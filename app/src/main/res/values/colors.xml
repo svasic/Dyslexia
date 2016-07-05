@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- GREY -->
+    <color name="dark_gray">#333333</color>
+    <color name="gray">#454545</color>
+    <color name="new_dark_grey">#4A4A4A</color>
+    <color name="light_grey">#979797</color>
+    <color name="very_light_gray">#D3D3D3</color>
+
+
+    <color name="new_orange">#FF8600</color>
+    <color name="new_orange_end">#E2740C</color>
+    <color name="new_orange_begin">#EAA016</color>
+    <color name="new_orange_button_50">#7FE24000</color>
+    <color name="new_insight_text_orange">#F8871A</color>
+    <color name="new_insight_text_orange_transparent">#90F8871A</color>
+
+</resources>

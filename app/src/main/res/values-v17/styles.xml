@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="ButtonAnswer" parent="Base.Widget.AppCompat.ActionButton.Overflow">
+        <item name="android:textSize">60sp</item>
+        <item name="android:gravity">left</item>
+        <item name="android:textAlignment">center</item>
+        <item name="android:background">@drawable/answer_button_background</item>
+    </style>
+</resources>
